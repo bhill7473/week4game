@@ -1,0 +1,28 @@
+button img{
+	width:100px;
+	height:100px;
+	
+}
+h1{
+	color:teal;
+	font-weight:bold;
+}
+h2{
+	color:orange;
+	font-weight: bold;
+}
+body{
+	background:black;
+}
+#score{
+	color:white;
+}
+#number{
+	color:white;
+}
+#winnumber{
+	color:white;
+}
+#lossnumber{
+	color:white;
+}
